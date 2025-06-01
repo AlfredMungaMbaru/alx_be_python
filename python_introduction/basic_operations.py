@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 number1 = 10
 number2 = 5
 def add_numbers(num1, num2):
